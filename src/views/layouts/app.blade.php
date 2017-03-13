@@ -39,16 +39,17 @@
             <div class="container">
                 <div class="branding">
                     <h1 class="logo">
-                        <a href="index.html">
-                            <span aria-hidden="true" class="fa fa-eye icon"></span>
-                            <span class="text-bold">True</span><span class="text-highlight">Sight</span>
+                        <a href="#">
+                            {{--<span aria-hidden="true" class="fa fa-eye icon"></span>--}}
+                            {{--<span class="text-bold">True</span><span class="text-highlight">Sight</span>--}}
+                            <img class="img-responsive" src="images/logo.png" style="margin-left: 0px;"/>
                         </a>
                     </h1>
                 </div>
                 <ol class="breadcrumb">
                     @yield('breadcrumb')
-                    <li><a href="index.html">Home</a></li>
-                    <li class="active">Components</li>
+                    <li><a href="#">Home</a></li>
+                    <li class="active">Documentation</li>
                 </ol>
             </div>
         </header>

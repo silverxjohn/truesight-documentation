@@ -9,7 +9,7 @@
         <div class="container">
             <div id="doc-header" class="doc-header text-center">
                 <h1 class="doc-title"><span aria-hidden="true" class="icon icon_puzzle_alt"></span> GETTING STARTED</h1>
-                <div class="meta"><i class="fa fa-clock-o"></i> Last updated: Jan 25th, 2016</div>
+                <div class="meta"><i class="fa fa-clock-o"></i> Last updated: Feb 9th, 2017</div>
             </div><!--//doc-header-->
             <div class="doc-body">
                 <div class="doc-content">
@@ -54,7 +54,7 @@
                         <section id="familiarize-company-logo" class="doc-section">
                             <h3 class="text-highlight">Company Logo</h3>
                             <div class="section-block">
-                                <p>This modules contains the Logo of your company in which an authorized user can upload their own logo. See <a class="scrollto" href="#">MANAGE BASIC CONFIGURATION: Basic Setup</a> section for more details.</p>
+                                <p>This modules contains the Logo of your company in which an authorized user can upload their own logo. See <a class="scrollto" href="#config-basic-setup">MANAGE BASIC CONFIGURATION: Basic Setup</a> section for more details.</p>
                                 <img class="img-responsive" src="images/company-logo.png" alt="company logo">
                             </div>
                         </section>
@@ -1996,7 +1996,7 @@
                 </div><!--//doc-content-->
                 <div class="doc-sidebar">
                     <nav id="doc-nav">
-                        <ul id="doc-menu" class="nav doc-menu hidden-xs" data-spy="affix">
+                        <ul id="doc-menu" class="nav doc-menu hidden-xs" data-spy="affix" style="overflow: auto; height: 100%;">
                             <li>
                                 <a class="scrollto" href="#doc-header">Getting Started</a>
                                 <ul class="nav doc-sub-menu">
@@ -2227,17 +2227,6 @@
                                     </li>
                                 </ul>
                             </li>
-                            <li>
-                                <a class="scrollto" href="#app-components">App Components</a>
-                                <ul class="nav doc-sub-menu">
-                                    <li><a class="scrollto" href="#projects">Projects</a></li>
-                                    <li><a class="scrollto" href="#discussions">Discussions</a></li>
-                                    <li><a class="scrollto" href="#members">Members</a></li>
-                                    <li><a class="scrollto" href="#account">User Account</a></li>
-                                    <li><a class="scrollto" href="#others">Others</a></li>
-                                </ul><!--//nav-->
-                            </li>
-                            <li><a class="scrollto" href="#ui-components">UI Components</a></li>
                         </ul><!--//doc-menu-->
                     </nav>
                 </div><!--//doc-sidebar-->
