@@ -23,7 +23,7 @@
                                     <li>Click “<b>Log In</b>” button.</li>
                                     <li>You will be directed at the Homepage of the website.</li>
                                 </ol>
-                                <img class="img-responsive" src="images/login-page.png" alt="login page screen shot">
+                                <img class="img-responsive" src="docs/images/login-page.png" alt="login page screen shot">
                             </div>
                         </section>
 
@@ -31,7 +31,7 @@
                             <h2 class="section-title">Familiarize TrueSight’s header and footer</h2>
                             <div class="section-block">
                                 <p>This module contains three main components: (1) <b><a class="scrollto" href="#familiarize-sidebar">Sidebar Menu</a></b>, (2) <b><a class="scrollto" href="#familiarize-truesight-logo">TrueSight Logo</a></b>, (3) <b><a class="scrollto" href="#familiarize-company-logo">Company Logo</a></b> and (4) <b><a class="scrollto" href="#familiarize-user-profile">User Profile</a></b> pane.</p>
-                                <img class="img-responsive" src="images/header.png" alt="header screen shot">
+                                <img class="img-responsive" src="docs/images/header.png" alt="header screen shot">
                             </div>
                         </section>
 
@@ -39,7 +39,7 @@
                             <h3 class="text-highlight">Sidebar Menu</h3>
                             <div class="section-block">
                                 <p>This modules contains the all the menus of TrueSight.</p>
-                                <img class="img-responsive" src="images/sidebar.png" alt="sidebar screen shot">
+                                <img class="img-responsive" src="docs/images/sidebar.png" alt="sidebar screen shot">
                             </div>
                         </section>
 
@@ -47,7 +47,7 @@
                             <h3 class="text-highlight">TrueSight Logo</h3>
                             <div class="section-block">
                                 <p>This modules contains the TrueSight Logo.</p>
-                                <img class="img-responsive" src="images/truesight-logo.png" alt="truesight logo">
+                                <img class="img-responsive" src="docs/images/truesight-logo.png" alt="truesight logo">
                             </div>
                         </section>
 
@@ -55,7 +55,7 @@
                             <h3 class="text-highlight">Company Logo</h3>
                             <div class="section-block">
                                 <p>This modules contains the Logo of your company in which an authorized user can upload their own logo. See <a class="scrollto" href="#config-basic-setup">MANAGE BASIC CONFIGURATION: Basic Setup</a> section for more details.</p>
-                                <img class="img-responsive" src="images/company-logo.png" alt="company logo">
+                                <img class="img-responsive" src="docs/images/company-logo.png" alt="company logo">
                             </div>
                         </section>
 
@@ -63,7 +63,7 @@
                             <h3 class="text-highlight">User Profile</h3>
                             <div class="section-block">
                                 <p>This modules contains “<b>Change your own Password</b>” and “<b>Log Out</b>” navigations.</p>
-                                <img class="img-responsive" src="images/user-profile.png" alt="user profile screen shot">
+                                <img class="img-responsive" src="docs/images/user-profile.png" alt="user profile screen shot">
                             </div>
 
                             <div class="section-block" id="change-your-own-password">
@@ -72,7 +72,7 @@
                                     <li>Click the “<b>Change Password</b>” module.</li>
                                     <li>
                                         You’ll be directed to Change Password page, click the “<b>Password</b>” tab.
-                                        <img class="img-responsive" src="images/user-profile-update-password.png" alt="change password screen shot">
+                                        <img class="img-responsive" src="docs/images/user-profile-update-password.png" alt="change password screen shot">
                                     </li>
                                     <li>Click “<b>Change Password</b>” once done.</li>
                                 </ol>
@@ -83,7 +83,7 @@
                                 <ol class="list">
                                     <li>
                                         In the Change Password page, click the “<b>Personal Information</b>” tab.
-                                        <img class="img-responsive" src="images/user-profile-information.png" alt="user profile information screen shot">
+                                        <img class="img-responsive" src="docs/images/user-profile-information.png" alt="user profile information screen shot">
                                     </li>
                                 </ol>
                             </div>
@@ -105,11 +105,11 @@
                                 <li>Click the “<b>Home</b>” module in the Menu.</li>
                                 <li>
                                     In the Upcoming Events Pane, Click the “<b>Add</b>” button.
-                                    <img class="img-responsive" src="images/upcoming-events.png" alt="upcoming events screen shot">
+                                    <img class="img-responsive" src="docs/images/upcoming-events.png" alt="upcoming events screen shot">
                                 </li>
                                 <li>
                                     A pop-up interface will appear. Complete the details of the “Add Event” pop-up interface.
-                                    <img class="img-responsive" src="images/create-event-modal.png" alt="creating event screen shot">
+                                    <img class="img-responsive" src="docs/images/create-event-modal.png" alt="creating event screen shot">
                                 </li>
                                 <li>Once done completing, press the “<b>Create</b>” button.</li>
                             </ol>
@@ -124,7 +124,7 @@
                                 <li>Press the “<b>View</b>” <i class="fa fa-search"></i> button corresponding the Event that you wish to view.</li>
                                 <li>
                                     A pop-up interface (View Event) will appear containing the details of the Event that you wish to view.
-                                    <img class="img-responsive" src="images/view-event-modal.png" alt="viewing an event screen shot">
+                                    <img class="img-responsive" src="docs/images/view-event-modal.png" alt="viewing an event screen shot">
                                 </li>
                                 <li>Once done viewing, press the “<b>Close</b>” button.</li>
                             </ol>
@@ -148,7 +148,7 @@
                                 <li>Press the “<b>Modify</b>” <i class="fa fa-edit"></i> button corresponding the Event that you wish to modify.</li>
                                 <li>
                                     A pop-up interface (Modify Event) will appear containing the details of the Event that you wish to modify. Change the details as you see fit.
-                                    <img class="img-responsive" src="images/modify-event-modal.png" alt="modifying an event screen shot">
+                                    <img class="img-responsive" src="docs/images/modify-event-modal.png" alt="modifying an event screen shot">
                                 </li>
                                 <li>Once done viewing, press the “<b>Close</b>” button.</li>
                             </ol>
@@ -172,7 +172,7 @@
                                 <li>Press the “<b>Modify</b>” <i class="fa fa-remove"></i> button corresponding the Event that you wish to delete.</li>
                                 <li>
                                     A pop-up interface will appear confirming the deletion of the Event. Press the “<b>Yes</b>” button if you wish to proceed with the deletion of the event.
-                                    <img class="img-responsive" src="images/delete-event-modal.png" alt="deleting an event screen shot">
+                                    <img class="img-responsive" src="docs/images/delete-event-modal.png" alt="deleting an event screen shot">
                                 </li>
                             </ol>
                             <div class="callout-block callout-info">
@@ -194,7 +194,7 @@
                                 <li>In the Upcoming Events Pane, Click the “<b>Add</b>” button if you wish to create a new event and add further restrictions to it. Click the “<b>Modify</b>” <i class="fa fa-edit"></i> button if you wish to add viewing restrictions to an already existing event.</li>
                                 <li>
                                     A pop-up interface will appear prompting you to either complete the details for an “Add New Event” scenario or change the details for a “Modify an Existing” event scenario.
-                                    <img class="img-responsive" src="images/create-event-modal.png" alt="creating an event screen shot">
+                                    <img class="img-responsive" src="docs/images/create-event-modal.png" alt="creating an event screen shot">
                                 </li>
                                 <li>
                                     You can restrict viewing and managing of the event in the “<b>Scope</b>” section of the Event interface.
@@ -227,14 +227,14 @@
                         <section id="upcoming-events" class="doc-section">
                             <h4>Upcoming Events Pane</h4>
                             <p>Upcoming Events Pane is located in the upper portion of the Home Module.</p>
-                            <img class="img-responsive" src="images/upcoming-events-pane.png" alt="upcoming events pane screen shot">
+                            <img class="img-responsive" src="docs/images/upcoming-events-pane.png" alt="upcoming events pane screen shot">
                             <p>Events Pane function like an announcement section in that it allows the company to notify system users of upcoming events relevant to compliance.   Aside from the Event details, Event Date, system will automatically compute and show the number of days (countdown) before the due date of created events. To know more about how to create and manage Events, see the <a class="scrollto" href="#home-basic">Manage Events</a> section of this manual.</p>
                         </section>
 
                         <section id="overall-compliance" class="doc-section">
                             <h4>Overall Compliance Pane</h4>
                             <p>Overall Compliance Pane is located in the lower left portion of the Home Module.</p>
-                            <img class="img-responsive" src="images/overall-compliance-pane.png" alt="overall compliance pane screen shot">
+                            <img class="img-responsive" src="docs/images/overall-compliance-pane.png" alt="overall compliance pane screen shot">
                             <p>Overall Compliance Pane shows a listing of the different sites/branch enrolled in the system together with its corresponding compliance scores for a certain framework selected in the dropdown. It also shows the overall percentage compliance of the company / organization by consolidating the scores of all sites under it. To display the scores of the sites for another framework, user will just choose the desired framework from the “Framework” dropdown list.</p>
                             <div class="callout-block callout-info">
                                 <div class="icon-holder">
@@ -251,10 +251,10 @@
                         <section id="breakdown-compliance" class="doc-section">
                             <h4>Compliance Breakdown per Site Pane</h4>
                             <p>Compliance Breakdown per Site Pane is located in the lower right portion of the Home Module.</p>
-                            <img class="img-responsive" src="images/breakdown-compliance-pane.png" alt="breakdown compliance pane screen shot">
+                            <img class="img-responsive" src="docs/images/breakdown-compliance-pane.png" alt="breakdown compliance pane screen shot">
                             <p>The Compliance Breakdown presents a per chapter/domain compliance scores of each site as well as a quick statistics of the overall status of compliance for that site as depicted by the pie and bar graphs.</p>
                             <p>To get a zoomed in view of the graphs, just click the ”<b>View Larger</b>” button. Another interface will pop-up containing a bigger version of the graphs. Pop-up interface will also allow you to navigate through compliance graphs of the various sites registered as well as various frameworks available.</p>
-                            <img class="img-responsive" src="images/breakdown-compliance-modal.png" alt="breakdown compliance modal screen shot">
+                            <img class="img-responsive" src="docs/images/breakdown-compliance-modal.png" alt="breakdown compliance modal screen shot">
                             <p>You can check detailed scores (per chapter / per department & historical), in the Compliance Summary Module. For a guideline on how to navigate through the Compliance Summary module, see the <a class="scrollto" href="#navigate-compliance-status-per-site">SUMMARY OF COMPLIANCE: Navigate through Compliance Status per Site</a> section.</p>
                         </section>
 
@@ -278,7 +278,7 @@
                                     <dd>These are the detailed requirements that needs to be met in order to comply with the Framework. In some Framework (Standards), these are sometimes called “Controls,” “Compliance Elements” or “Measurable Elements.”</dd>
                                 </dl>
                                 <p>Below is a graphical representation of the system hierarchy that we use in TrueSight:</p>
-                                <img class="img-responsive" src="images/graphical-hierarchy.png" alt="graphical representation of system hierarchy">
+                                <img class="img-responsive" src="docs/images/graphical-hierarchy.png" alt="graphical representation of system hierarchy">
                             </div>
                         </section>
 
@@ -296,23 +296,23 @@
                                 <li>In the Compliance Elements Master File interface, click the “<b>Create New Chapter</b>” button located at the top right portion of the interface.</li>
                                 <li>
                                     Another pop-up interface will appear. Complete the initial details of the “<b>Create Chapter/Standard</b>” pop-up interface as follows:
-                                    <img class="img-responsive" src="images/create-chapter-modal.png" alt="create chapter modal">
+                                    <img class="img-responsive" src="docs/images/create-chapter-modal.png" alt="create chapter modal">
                                 </li>
                                 <li>Once done completing, press the “<b>Create Chapter</b>” button.</li>
                                 <li>
                                     The Chapter account has initially been created. Now you can start creating a Standard account. Press “<b>Add Standard</b>” button to create a standard account within your newly created Chapter account.
-                                    <img class="img-responsive" src="images/create-chapter-expanded-modal.png" alt="create chapter modal">
+                                    <img class="img-responsive" src="docs/images/create-chapter-expanded-modal.png" alt="create chapter modal">
                                 </li>
                                 <li>
                                     A pop-up interface will appear. First, make sure that the standard account you will be creating is tagged under the correct Framework and Chapter account.  If not correctly tagged, kindly choose the appropriate Framework and Chapter account by choosing from the dropdown list corresponding to the same in the Standards Applicability section of the pop-up interface.
                                     <div class="row">
                                         <div class="col-md-6">
                                             <label for="">Enabled Standard Title Field</label>
-                                            <img class="img-responsive" src="images/create-standard-with-title.png" alt="create standard with title modal">
+                                            <img class="img-responsive" src="docs/images/create-standard-with-title.png" alt="create standard with title modal">
                                         </div>
                                         <div class="col-md-6">
                                             <label for="">Disabled Standard Title Field</label>
-                                            <img class="img-responsive" src="images/create-standard-without-title.png" alt="create standard without title modal">
+                                            <img class="img-responsive" src="docs/images/create-standard-without-title.png" alt="create standard without title modal">
                                         </div>
                                     </div>
 
@@ -358,7 +358,7 @@
                                 <li>Once done creating Standard accounts press the “<b>Save</b>” button in the “Create Chapter/Standard” interface to finalize the creation of both the Chapter Account and the corresponding Standard Accounts.</li>
                                 <li>
                                     Another way of creating a standard is by selecting a chapter and standard in the dropdown list and clicking the “<b>Add Standard</b>” button in the Elements per Standard Pane. Then, repeat steps 7 to 10. Once done completing the details of the Standard, press the “<b>Create</b>” button. You will be redirected back to the “<b>Compliance Elements Master File</b>” interface, this time with the newly created Standard account listed under the standard dropdown list.
-                                    <img class="img-responsive" src="images/chapter-standard-information.png" alt="created chapter and standard screen shot">
+                                    <img class="img-responsive" src="docs/images/chapter-standard-information.png" alt="created chapter and standard screen shot">
                                 </li>
                             </ol>
                         </section>
@@ -371,7 +371,7 @@
                                 <li>A Submodule list will appear under “Compliance Elements”. Click the “<b>Elements Master File</b>” submodule.</li>
                                 <li>
                                     In the Compliance Elements Master File page, select from the corresponding dropdown list the <b>Framework</b> and the <b>Chapter</b> which the Standard that you want to modify belongs to.
-                                    <img class="img-responsive" src="images/compliance-master-file-selection.png" alt="selection in compliance master file screen shot">
+                                    <img class="img-responsive" src="docs/images/compliance-master-file-selection.png" alt="selection in compliance master file screen shot">
                                 </li>
                                 <li>
                                     A dropdown list will appear containing a list of Standard Accounts under the selected Chapter. Select from the said dropdown list the <b>Standard</b> that you wish to modify.
@@ -388,20 +388,20 @@
                                 </li>
                                 <li>
                                     Selecting a Standard account will trigger the population and display the Chapter details as well as the Standard details. From the same pane, click the “<b>Modify</b>” button.
-                                    <img class="img-responsive" src="images/compliance-master-file-chapter-and-standard-information.png" alt="created chapter and standard information screen shot">
+                                    <img class="img-responsive" src="docs/images/compliance-master-file-chapter-and-standard-information.png" alt="created chapter and standard information screen shot">
                                 </li>
                                 <li>
                                     The “Modify Chapter/Standard” pop-up interface will appear. This contains the Chapter details as well as the list of Standards registered.
-                                    <img class="img-responsive" src="images/modify-chapter-fields-locked-modal.png" alt="modifying chapter information screen shot">
+                                    <img class="img-responsive" src="docs/images/modify-chapter-fields-locked-modal.png" alt="modifying chapter information screen shot">
                                 </li>
                                 <li>
                                     To <b>modify Chapter</b>, click the “<b>Update Chapter Details</b>” button then change the details of the Chapter you want to edit.  After modifying the Chapter details, press the “<b>Save Changes</b>” button.
-                                    <img class="img-responsive" src="images/modify-chapter-fields-unlocked-modal.png" alt="modifying chapter information screen shot">
+                                    <img class="img-responsive" src="docs/images/modify-chapter-fields-unlocked-modal.png" alt="modifying chapter information screen shot">
                                 </li>
                                 <li>To modify a Standard, first choose from the list the Standard that you wish to modify then press the <b>Modify</b> <i class="fa fa-edit"></i> button in the Action Column corresponding the standard you wish to modify.</li>
                                 <li>
                                     A pop-up interface containing the Standard details will appear. If the Standard account has its “Locked Fields” checkbox currently checked, you need to uncheck it first before you can start changing the details. (See note about Locked Fields option in Step 9 of <a class="scrollto" href="#create-chapter-and-standard-step-10">Create Chapters & Standards</a> section)
-                                    <img class="img-responsive" src="images/modify-chapter-fields-unlocked-modal.png" alt="modifying chapter information screen shot">
+                                    <img class="img-responsive" src="docs/images/modify-chapter-fields-unlocked-modal.png" alt="modifying chapter information screen shot">
                                 </li>
                                 <li>Once done modifying the Standard field, click the check box besides the “Locked Fields” option if you want the Standard account to be protected from erroneous modification. Otherwise, leave it blank.</li>
                                 <li>Afterwards, press the “<b>Save Changes</b>” button to complete the modification. You will be redirected back to the “<b>Modify Chapter/Standard</b>” interface.</li>
@@ -409,7 +409,7 @@
                                 <li>Once done modifying Chapter and/or Standard accounts, press the “<b>Close</b>” button in the “Modify Chapter/Standard” interface to finalize the modification.</li>
                                 <li>
                                     Another way of modifying a Chapter/Standard is by selecting from the corresponding dropdown list the <b>Framework</b> and the <b>Chapter</b> the Standard that you want to modify belongs to and click the “<b>Update Chapter Details</b>” button at the right side of the standard dropdown list. Then repeat steps 6 to 13.
-                                    <img class="img-responsive" src="images/compliance-master-file-selection-2.png" alt="selecting chapter and standard screen shot">
+                                    <img class="img-responsive" src="docs/images/compliance-master-file-selection-2.png" alt="selecting chapter and standard screen shot">
                                 </li>
                             </ol>
                         </section>
@@ -423,15 +423,15 @@
                                 <li>In the Compliance Elements Master File page, select from the corresponding dropdown list the <b>Framework</b> and the <b>Chapter</b> that you want to delete.</li>
                                 <li>
                                     Click the “<b>Update Chapter Details</b>” button at the right side of the standard dropdown list.
-                                    <img class="img-responsive" src="images/compliance-master-file-selection-2.png" alt="selecting chapter and standard screen shot">
+                                    <img class="img-responsive" src="docs/images/compliance-master-file-selection-2.png" alt="selecting chapter and standard screen shot">
                                 </li>
                                 <li>
                                     The “Modify Chapter/Standard” pop-up interface will appear. This contains the Chapter details, under it are buttons. Click the “Delete Chapter” button.
-                                    <img class="img-responsive" src="images/create-chapter-zoom-modal.png" alt="zoom in create chapter modal screen shot">
+                                    <img class="img-responsive" src="docs/images/create-chapter-zoom-modal.png" alt="zoom in create chapter modal screen shot">
                                 </li>
                                 <li>
                                     A pop-up validation message will appear confirming if you want to proceed with the deletion of the chapter or not.  Press the “<b>Yes</b>” button if you want to continue deleting the Chapter. Otherwise, press “<b>No</b>”.
-                                    <img class="img-responsive" src="images/confirm-delete-chapter-modal.png" alt="confirm delete chapter action modal">
+                                    <img class="img-responsive" src="docs/images/confirm-delete-chapter-modal.png" alt="confirm delete chapter action modal">
                                 </li>
                             </ol>
                         </section>
@@ -444,25 +444,25 @@
                                 <li>A Submodule list will appear under “Compliance Elements”. Click the “<b>Elements Master File</b>” submodule.</li>
                                 <li>
                                     In the Compliance Elements Master File page, select from the corresponding dropdown list the <b>Framework</b> and the <b>Chapter</b> which the Standard that you want to delete belongs to.
-                                    <img class="img-responsive" src="images/compliance-master-file-selection-2.png" alt="selecting chapter and standard screen shot">
+                                    <img class="img-responsive" src="docs/images/compliance-master-file-selection-2.png" alt="selecting chapter and standard screen shot">
                                 </li>
                                 <li>A dropdown list will appear containing a list of Standard Accounts under the selected Chapter. Select from the said dropdown list the <b>Standard</b> that you wish to delete. </li>
                                 <li>
                                     Selecting a Standard account will trigger the population and display of the Chapter details as well as the Standard details. From the same pane, click the “<b>Delete</b>” button.
-                                    <img class="img-responsive" src="images/create-chapter-zoom-modal.png" alt="zoom in create chapter modal screen shot">
+                                    <img class="img-responsive" src="docs/images/create-chapter-zoom-modal.png" alt="zoom in create chapter modal screen shot">
                                 </li>
                                 <li>
                                     A pop-up validation message will appear confirming if you want to proceed with the deletion of the standard or not.  Press the “<b>Yes</b>” button if you want to continue deleting the Standard. Otherwise, press “<b>No</b>”.
-                                    <img class="img-responsive" src="images/confirm-delete-standard-modal.png" alt="confirm delete standard action modal">
+                                    <img class="img-responsive" src="docs/images/confirm-delete-standard-modal.png" alt="confirm delete standard action modal">
                                 </li>
                                 <li>
                                     If you want to delete multiple standards under the same Chapter, click the “<b>Modify</b>” button instead of the “Delete” button in Step 5 of this section. A pop-up interface will appear containing the list of Standards within that Chapter.
-                                    <img class="img-responsive" src="images/create-chapter-with-standards-modal.png" alt="create chapter with standards screen shot">
+                                    <img class="img-responsive" src="docs/images/create-chapter-with-standards-modal.png" alt="create chapter with standards screen shot">
                                 </li>
                                 <li>Press the “<b>Delete</b>” <i class="fa fa-remove"></i> button in the Action Column corresponding the standard you wish to modify.</li>
                                 <li>
                                     For every standard you delete, a pop-up validation message will appear confirming if you want to proceed with the deletion of that standard or not. Press the “<b>Yes</b>” button if you want to continue deleting the Standard. Otherwise, press “<b>No</b>”.
-                                    <img class="img-responsive" src="images/confirm-delete-standard-modal.png" alt="confirm delete standard action modal">
+                                    <img class="img-responsive" src="docs/images/confirm-delete-standard-modal.png" alt="confirm delete standard action modal">
                                 </li>
                             </ol>
 
@@ -492,23 +492,23 @@
                                 <li>A Submodule list will appear under “Compliance Elements”. Click the “<b>Elements Master File</b>” submodule.</li>
                                 <li>
                                     In the Compliance Elements Master File page, select from the corresponding dropdown list the <b>Framework</b> and the <b>Chapter</b> to which the Standard you want your Element be to be tagged under belongs to.
-                                    <img class="img-responsive" src="images/compliance-master-file-selection.png" alt="compliance master file selection screen shot">
+                                    <img class="img-responsive" src="docs/images/compliance-master-file-selection.png" alt="compliance master file selection screen shot">
                                 </li>
                                 <li>A dropdown list will appear containing a list of Standard Accounts under the selected Chapter. Select from the said dropdown list the <b>Standard</b> that from which you wish your Element to be tagged under.</li>
                                 <li>
                                     Selecting a Standard account will trigger the population and display of the Chapter details as well as the Standard details.  At the bottom of the “Elements per Standard” pane, press the “<b>+Create New Element</b>” button.
-                                    <img class="img-responsive" src="images/compliance-elements-empty.png" alt="compliance master file elements screen shot">
+                                    <img class="img-responsive" src="docs/images/compliance-elements-empty.png" alt="compliance master file elements screen shot">
                                 </li>
                                 <li>
                                     A pop-up interface will appear. First, make sure that the Element account you will be creating is tagged under the correct Framework, Chapter and Standard account.  If not correctly tagged, kindly choose the appropriate Framework and Chapter account by choosing from the dropdown list corresponding to the same in the Standards Applicability section of the pop-up interface.
                                     <div class="row">
                                         <div class="col-md-6">
                                             <label>Enabled Element Attributes</label>
-                                            <img class="img-responsive" src="images/create-element-with-name.png" alt="create element with name modal">
+                                            <img class="img-responsive" src="docs/images/create-element-with-name.png" alt="create element with name modal">
                                         </div>
                                         <div class="col-md-6">
                                             <label>Disabled Element Attributes</label>
-                                            <img class="img-responsive" src="images/create-element-without-name.png" alt="create element without name modal">
+                                            <img class="img-responsive" src="docs/images/create-element-without-name.png" alt="create element without name modal">
                                         </div>
                                     </div>
 
@@ -581,12 +581,12 @@
                                 <li>A Submodule list will appear under “Compliance Elements”. Click the “<b>Elements Master File</b>” submodule.</li>
                                 <li>
                                     In the Compliance Elements Master File page, select from the corresponding dropdown list the <b>Framework</b> and the <b>Chapter</b> from which the Standard containing the Element you wish to modify is currently tagged under.
-                                    <img class="img-responsive" src="images/compliance-master-file-selection.png" alt="compliance master file elements screen shot">
+                                    <img class="img-responsive" src="docs/images/compliance-master-file-selection.png" alt="compliance master file elements screen shot">
                                 </li>
                                 <li>A dropdown list will appear containing a list of Standard Accounts under the selected Chapter. Select from the said dropdown list the <b>Standard</b> containing the Element you wish to modify.</li>
                                 <li>
                                     System will then populate the Elements tagged under the chosen Standard, if any.  From the list of Elements, press the Modify <i class="fa fa-edit"></i> button in the Action Column corresponding the Element you wish to modify.
-                                    <img class="img-responsive" src="images/compliance-elements-empty.png" alt="compliance master file elements screen shot">
+                                    <img class="img-responsive" src="docs/images/compliance-elements-empty.png" alt="compliance master file elements screen shot">
                                 </li>
                                 <li>A pop-up interface containing the Element details will appear. If the Element account has its “Locked Fields” checkbox currently checked, you need to uncheck it first before you can start changing the details. (See note about Locked Fields option in Step 9 of <a class="scrollto" href="#create-element-step-9">Create Compliance Elements</a> section)</li>
                                 <li>Once done modifying the Element fields, click the check box besides the “Locked Fields” option if you want the Standard account to be protected from erroneous modification. Otherwise, leave it blank.</li>
@@ -602,13 +602,13 @@
                                 <li>A Submodule list will appear under “Compliance Elements”. Click the “<b>Elements Master File</b>” submodule</li>
                                 <li>
                                     In the Compliance Elements Master File page, select from the corresponding dropdown list the <b>Framework</b> and the <b>Chapter</b> from which the Standard containing the Element you wish to delete is currently tagged under.
-                                    <img class="img-responsive" src="images/compliance-master-file-selection.png" alt="compliance master file elements screen shot">
+                                    <img class="img-responsive" src="docs/images/compliance-master-file-selection.png" alt="compliance master file elements screen shot">
                                 </li>
                                 <li>A dropdown list will appear containing a list of Standard Accounts under the selected Chapter. Select from the said dropdown list the <b>Standard</b> containing the Element you wish to delete.</li>
                                 <li>System will then populate the Elements tagged under the chosen Standard, if any.  From the list of Elements, press the <b>Delete</b> <i class="fa fa-remove"></i> button in the Action Column corresponding the Element you wish to delete.</li>
                                 <li>
                                     A pop-up validation message will appear confirming if you want to proceed with the deletion or not.  Press the “<b>Yes</b>” button if you want to continue deleting the Standard.  Otherwise, press “<b>No</b>”.
-                                    <img class="img-responsive" src="images/confirm-delete-element.png" alt="confirm element deletion modal">
+                                    <img class="img-responsive" src="docs/images/confirm-delete-element.png" alt="confirm element deletion modal">
                                 </li>
                                 <li>Repeat steps 5 and 6 if you want to delete more</li>
                             </ol>
@@ -622,7 +622,7 @@
                                 <li>A Submodule list will appear under “Compliance Elements”. Click the “<b>Elements Master File</b>” submodule.</li>
                                 <li>
                                     In the Compliance Elements Master File page, select from the corresponding dropdown list the <b>Framework</b> and the <b>Chapter</b> from which the Standard containing the Element you wish to delete is currently tagged under.
-                                    <img class="img-responsive" src="images/compliance-master-file-selection.png" alt="compliance master file elements screen shot">
+                                    <img class="img-responsive" src="docs/images/compliance-master-file-selection.png" alt="compliance master file elements screen shot">
                                 </li>
                                 <li>A dropdown list will appear containing a list of Standard Accounts under the selected Chapter. Select from the said dropdown list the <b>Standard</b> containing the Element you wish to view.</li>
                                 <li>System will then populate the Elements tagged under the chosen Standard, if any. From the list of Elements, press the <b>View</b> <i class="fa fa-search"></i> button in the Action Column corresponding the Element you wish to view.</li>
@@ -662,7 +662,7 @@
                                 <li>
                                     First Way – by Creation of Element
                                     In the Compliance Elements Master File page, select from the corresponding dropdown list the <b>Framework</b> and the <b>Chapter</b> which the Standard will contain the Element you want to create currently tagged under. On creation of Element, you can now Enable/Disable the Element.
-                                    <img class="img-responsive" src="images/create-element-with-name.png" alt="create element modal">
+                                    <img class="img-responsive" src="docs/images/create-element-with-name.png" alt="create element modal">
 
                                     <div class="callout-block callout-info">
                                         <div class="icon-holder">
@@ -677,7 +677,7 @@
                                 <li>
                                     Second Way – by Modifying of Element
                                     In the Compliance Elements Master File page, select from the corresponding dropdown list the <b>Framework</b> and the <b>Chapter</b> from which the Standard containing the Element you wish to modify is currently tagged under. On modifying of Element, you can now Enable/Disable the Element.
-                                    <img class="img-responsive" src="images/create-element-with-name.png" alt="create element modal">
+                                    <img class="img-responsive" src="docs/images/create-element-with-name.png" alt="create element modal">
                                 </li>
                             </ol>
                         </section>
@@ -694,17 +694,17 @@
                                     <ol type="a">
                                         <li>
                                             Select a specific element
-                                            <img class="img-responsive" src="images/select-element-manual.png" alt="Selecting elements one by one">
+                                            <img class="img-responsive" src="docs/images/select-element-manual.png" alt="Selecting elements one by one">
                                         </li>
                                         <li>
                                             Selecting all elements under selected standard
-                                            <img class="img-responsive" src="images/select-element-all.png" alt="Selecting all elements">
+                                            <img class="img-responsive" src="docs/images/select-element-all.png" alt="Selecting all elements">
                                         </li>
                                     </ol>
                                 </li>
                             </ol>
                             <p>Example of Generated List of Compliance Elements</p>
-                            <img class="img-responsive" src="images/sample-generated-compliance.png" alt="Sample generated compliance elements">
+                            <img class="img-responsive" src="docs/images/sample-generated-compliance.png" alt="Sample generated compliance elements">
                         </section>
 
                         <section id="submission-and-scoring" class="doc-section">
@@ -734,11 +734,11 @@
                                         </div>
                                     </div>
 
-                                    <img class="img-responsive" src="images/evidence-table-list.png" alt="List of evidences in a table">
+                                    <img class="img-responsive" src="docs/images/evidence-table-list.png" alt="List of evidences in a table">
                                 </li>
                                 <li>
                                     Click “<b>Submit Evidence</b>” <i class="fa fa-file-text-o"></i> on the right side of the status icon. A pop up page will appear for the assessment of the evidence which will be submitted.
-                                    <img class="img-responsive" src="images/submit-evidence-modal.png" alt="Submit evidence modal">
+                                    <img class="img-responsive" src="docs/images/submit-evidence-modal.png" alt="Submit evidence modal">
                                 </li>
                                 <li>Click “<b>Submit for Review</b>” and automatically the evidence submitted will go to the “<b>Evidence for Review</b>” submodule pending for the assessment of Compliance Officer.</li>
                             </ol>
@@ -787,7 +787,7 @@
                                 <li>In the Compliance Check Page, select from the corresponding dropdown list of the <b>Framework</b>, <b>Chapter</b>, <b>Site</b>, <b>Standard</b> and the <b>Department</b> you wish to tag for the submission of evidence. And then Click “<b>Check Evidence Status</b>” button.</li>
                                 <li>
                                     Click “Submit Evidence” <i class="fa fa-file-text-o"></i> at the right side.
-                                    <img class="img-responsive" src="images/evidence-table-list.png" alt="List of evidences in a table">
+                                    <img class="img-responsive" src="docs/images/evidence-table-list.png" alt="List of evidences in a table">
 
                                     <div class="callout-block callout-info">
                                         <div class="icon-holder">
@@ -799,7 +799,7 @@
                                         </div>
                                     </div>
 
-                                    <img class="img-responsive" src="images/tagging-department-submit-evidence.png" alt="Selecting department">
+                                    <img class="img-responsive" src="docs/images/tagging-department-submit-evidence.png" alt="Selecting department">
 
                                     <div class="callout-block callout-info">
                                         <div class="icon-holder">
@@ -836,7 +836,7 @@
                                 </li>
                                 <li>
                                     Click “<b>Modify</b>“ <i class="fa fa-edit"></i> button in the Action Column corresponding the Element you wish to Modify
-                                    <img class="img-responsive" src="images/modify-evidence-modal.png" alt="Modify evidence modal">
+                                    <img class="img-responsive" src="docs/images/modify-evidence-modal.png" alt="Modify evidence modal">
                                 </li>
                                 <li>You can attach new file and add new comment when modifying Elements. And the date of modification captured. Click “<b>Submit for Review</b>”.</li>
                             </ol>
@@ -850,7 +850,7 @@
                                 <li>A Submodule list will appear under “Compliance Check”. Click the “<b>Evidence Submission</b>” submodule.</li>
                                 <li>
                                     In the Compliance Check Page, select from the corresponding dropdown list of the <b>Framework</b>, <b>Chapter</b>, <b>Site</b>, <b>Standard</b> and the <b>Department</b> you wish to tag for the submission of evidence. And then Click “<b>Check Evidence Status</b>” button.
-                                    <img class="img-responsive" src="images/evidence-submission-for-reviews-table-list.png" alt="List of evidences in a table">
+                                    <img class="img-responsive" src="docs/images/evidence-submission-for-reviews-table-list.png" alt="List of evidences in a table">
                                 </li>
                                 <li>Click “<b>Delete</b>“ <i class="fa fa-remove"></i> button in the Action Column corresponding the Element you wish to Delete.</li>
                                 <li>
@@ -866,7 +866,7 @@
                                         </div>
                                     </div>
 
-                                    <img class="img-responsive" src="images/confirm-delete-evidence.png" alt="Confirm evidence deletion">
+                                    <img class="img-responsive" src="docs/images/confirm-delete-evidence.png" alt="Confirm evidence deletion">
                                 </li>
                             </ol>
                         </section>
@@ -880,7 +880,7 @@
                         <section id="navigate-checklist" class="doc-section">
                             <h4>Navigate through the Checklist</h4>
                             <p>One of the Checklist Scoring feature is the pagination tab located at the right end of the interface. This feature can help an authorized user to easily navigate to the next page of elements that needs to be scored.</p>
-                            <img class="img-responsive" src="images/checklist-index.png" alt="checklist screen shot">
+                            <img class="img-responsive" src="docs/images/checklist-index.png" alt="checklist screen shot">
                         </section>
 
                         <section id="scoring-checklist" class="doc-section">
@@ -891,7 +891,7 @@
                                 <li>A Submodule list will appear under “Compliance Check”. Click the “<b>Checklist Scoring</b>” submodule.</li>
                                 <li>
                                     In the Checklist Scoring Page, select from the corresponding dropdown list of the <b>Framework</b>, <b>Chapter</b>, <b>Standard</b>, <b>Site</b> and the <b>Department</b> you wish to tag for the scoring of elements. And then the page will automatically show the elements checklist.
-                                    <img class="img-responsive" src="images/checklist-index.png" alt="checklist screen shot">
+                                    <img class="img-responsive" src="docs/images/checklist-index.png" alt="checklist screen shot">
 
                                     <div class="callout-block callout-info">
                                         <div class="icon-holder">
@@ -947,7 +947,7 @@
                         <section id="understanding-element-status" class="doc-section">
                             <h4>Understanding Element Status</h4>
                             <p>In this module, every time an authorized user submit a score, a status legend will appear on the Status Column to help the user determine the status of each elements easily.</p>
-                            <img class="img-responsive" src="images/view-evidence-status-modal.png" alt="modal containing list of evidences status">
+                            <img class="img-responsive" src="docs/images/view-evidence-status-modal.png" alt="modal containing list of evidences status">
                         </section>
 
                         <section id="add-comments-attachments" class="doc-section">
@@ -959,7 +959,7 @@
                                 <li>In the Compliance Check Page, select from the corresponding dropdown list of the <b>Framework</b>, <b>Chapter</b>, <b>Site</b>, <b>Standard</b> and the <b>Department</b> you wish to tag for the scoring of elements. And then the page will automatically show the elements checklist.</li>
                                 <li>
                                     Just what mention earlier, only “<b>Partial and Fail</b>” scores has the assessment pop up page where you can attach and add comment.
-                                    <img class="img-responsive" src="images/assess-evidence-modal.png" alt="assessing evidence">
+                                    <img class="img-responsive" src="docs/images/assess-evidence-modal.png" alt="assessing evidence">
 
                                     <div class="callout-block callout-info">
                                         <div class="icon-holder">
@@ -1008,7 +1008,7 @@
                                 <li>In the Compliance Check Page, select from the corresponding dropdown list of the <b>Framework</b>, <b>Chapter</b>, <b>Standard</b>, <b>Site</b> and the <b>Department</b> you wish to tag for the reviewing of elements. After selecting, click the “<b>Check Evidence Status</b>” button and the page will automatically show the evidence for review.</li>
                                 <li>
                                     You can only tag multiple sites/department if there are other site created on the location account module in admin and other departments created under framework account also in admin.
-                                    <img class="img-responsive" src="images/checklist-scoring-tagging-department.png" alt="tagging department in checklist scoring">
+                                    <img class="img-responsive" src="docs/images/checklist-scoring-tagging-department.png" alt="tagging department in checklist scoring">
                                 </li>
                             </ol>
                         </section>
@@ -1030,7 +1030,7 @@
                                 <li>After selecting, click the “<b>Generate Report</b>” at the bottom of the page.</li>
                             </ol>
                             <p>Example of Generated Report of Status of Compliance</p>
-                            <img class="img-responsive" src="images/sample-generated-status.png" alt="screen shot of sample generated status">
+                            <img class="img-responsive" src="docs/images/sample-generated-status.png" alt="screen shot of sample generated status">
 
                             <div class="callout-block callout-info">
                                 <div class="icon-holder">
@@ -1060,7 +1060,7 @@
                                 <li>In the List of Corrective Action Reports pane, you can still filter the specific incident reports by selecting its Column and Values you want to generate. </li>
                                 <li>
                                     After selecting, click the “<b>Filter</b>” button.
-                                    <img class="img-responsive" src="images/corrective-index.png" alt="screen shot of Corrective Reports page">
+                                    <img class="img-responsive" src="docs/images/corrective-index.png" alt="screen shot of Corrective Reports page">
 
                                     <div class="callout-block callout-info">
                                         <div class="icon-holder">
@@ -1084,7 +1084,7 @@
                                 <li>After selecting, click the “<b>+ New CAPA</b>” button.</li>
                                 <li>
                                     You will be directed to the New Action Report page. In this page, there are three tabs (<b>Report Details</b>, <b>Investigation Details</b> and <b>Action Details</b>) that can help you in creating a detailed report.
-                                    <img class="img-responsive" src="images/corrective-create-index.png" alt="screen shot of Corrective Reports Create page">
+                                    <img class="img-responsive" src="docs/images/corrective-create-index.png" alt="screen shot of Corrective Reports Create page">
                                 </li>
                             </ol>
                         </section>
@@ -1092,19 +1092,19 @@
                         <section id="capa-report-tab" class="doc-section">
                             <h5>Report Details Tab</h5>
                             <p>In this tab, you can input all the details of your complaints or incident reports.</p>
-                            <img class="img-responsive" src="images/corrective-report-tab.png" alt="screen shot of Reports Details tab">
+                            <img class="img-responsive" src="docs/images/corrective-report-tab.png" alt="screen shot of Reports Details tab">
                             <ol class="list">
                                 <li>Select from the corresponding dropdown list the <b>Category</b> and <b>Type</b> of the report you want to create.</li>
                                 <li>Input the <b>Report Title</b>.</li>
                                 <li>Click the “<b>Add Element</b>” button if you want to add an element.</li>
                                 <li>
                                     An Add Compliance Element pop up interface will appear.
-                                    <img class="img-responsive" src="images/capa-add-element.png" alt="corrective add element modal">
+                                    <img class="img-responsive" src="docs/images/capa-add-element.png" alt="corrective add element modal">
                                 </li>
                                 <li>Once done selecting the element you want, click the “<b>Add Button</b>”.</li>
                                 <li>
                                     After adding an element, you will be redirected back to the Report Details tab with the element you have been added.
-                                    <img class="img-responsive" src="images/corrective-report-tab-with-element.png" alt="element added">
+                                    <img class="img-responsive" src="docs/images/corrective-report-tab-with-element.png" alt="element added">
                                 </li>
                                 <li>If you want to add more elements, repeat steps 3 to 5.</li>
                                 <li>Once done, go to “<b>Investigation Details</b>” tab.</li>
@@ -1114,7 +1114,7 @@
                         <section id="capa-investigation-tab" class="doc-section">
                             <h5>Investigation Details Tab</h5>
                             <p>In this tab, you can input all the details of the evidences.</p>
-                            <img class="img-responsive" src="images/corrective-investigation-tab.png" alt="screen shot of Investigation tab">
+                            <img class="img-responsive" src="docs/images/corrective-investigation-tab.png" alt="screen shot of Investigation tab">
                             <ol class="list">
                                 <li>Tag all the <b>Root Cause Category</b> involved in the report you’re creating.</li>
                                 <li>Input the <b>Root Cause Details</b> and <b>Impact of Issues</b>.</li>
@@ -1128,12 +1128,12 @@
                         <section id="capa-action-tab" class="doc-section">
                             <h5>Action Details Tab</h5>
                             <p>In this tab, you can input all the details of the action plans. </p>
-                            <img class="img-responsive" src="images/corrective-action-tab.png" alt="screen shot of Action tab">
+                            <img class="img-responsive" src="docs/images/corrective-action-tab.png" alt="screen shot of Action tab">
                             <ol class="list">
                                 <li>Click the “<b>Add Task</b>” button.</li>
                                 <li>
                                     A Create New Task pop up interface will appear.
-                                    <img class="img-responsive" src="images/create-task-modal.png" alt="create task modal">
+                                    <img class="img-responsive" src="docs/images/create-task-modal.png" alt="create task modal">
                                 </li>
                                 <li>Click the “<b>Create</b>” button once you’re done creating a task.</li>
                                 <li>Complete the needed fields.</li>
@@ -1142,9 +1142,9 @@
                                 <li>Once done, go to “<b>Action Details</b>” tab.</li>
                             </ol>
                             <label for="">Disabled CAPA Module > Creation of CAPA Reports</label>
-                            <img class="img-responsive" src="images/capa-disabled-workflow.png" alt="capa disabled workflow">
+                            <img class="img-responsive" src="docs/images/capa-disabled-workflow.png" alt="capa disabled workflow">
                             <label for="">Enabled CAPA Module > Creation of CAPA Reports</label>
-                            <img class="img-responsive" src="images/capa-enabled-workflow.png" alt="capa enabled workflow">
+                            <img class="img-responsive" src="docs/images/capa-enabled-workflow.png" alt="capa enabled workflow">
 
                             <div class="callout-block callout-info">
                                 <div class="icon-holder">
@@ -1173,8 +1173,8 @@
                                 <li>After selecting a framework, click the “<b>Compliance per Site</b>” tab. You can see already the percentage of compliance – comparative per site. </li>
                                 <li>
                                     You can also select a specific status and site and monitor it through the graphs.
-                                    <img class="img-responsive" src="images/summary-status-per-site-heatmap.png" alt="screen shot of Compliance Status Per Site Heatmap">
-                                    <img class="img-responsive" src="images/summary-status-per-site-bar-graph.png" alt="screen shot of Compliance Status Per Site Bar Graph">
+                                    <img class="img-responsive" src="docs/images/summary-status-per-site-heatmap.png" alt="screen shot of Compliance Status Per Site Heatmap">
+                                    <img class="img-responsive" src="docs/images/summary-status-per-site-bar-graph.png" alt="screen shot of Compliance Status Per Site Bar Graph">
                                 </li>
                             </ol>
                         </section>
@@ -1188,7 +1188,7 @@
                                 <li>After selecting a framework, click the “<b>Historical per Site</b>” tab. </li>
                                 <li>
                                     Select from the corresponding dropdown list a “Comparative Period”, the period you want to compare. Then, you can already monitor the progress of compliance
-                                    <img class="img-responsive" src="images/summary-historical-per-site.png" alt="screen shot of Historical Per Site">
+                                    <img class="img-responsive" src="docs/images/summary-historical-per-site.png" alt="screen shot of Historical Per Site">
                                 </li>
                             </ol>
                         </section>
@@ -1202,8 +1202,8 @@
                                 <li>After selecting a framework, click the “<b>Compliance per Department</b>” tab. You can see already the percentage of compliance – comparative per site. </li>
                                 <li>
                                     You can also select a specific status and site and monitor it through the graphs.
-                                    <img class="img-responsive" src="images/summary-status-per-department-heatmap.png" alt="screen shot of Compliance Per Department Heatmap">
-                                    <img class="img-responsive" src="images/summary-status-per-department-bar-graph.png" alt="screen shot of Compliance Per Department Bar Graph">
+                                    <img class="img-responsive" src="docs/images/summary-status-per-department-heatmap.png" alt="screen shot of Compliance Per Department Heatmap">
+                                    <img class="img-responsive" src="docs/images/summary-status-per-department-bar-graph.png" alt="screen shot of Compliance Per Department Bar Graph">
                                 </li>
                             </ol>
 
@@ -1217,7 +1217,7 @@
                                 </div>
                             </div>
 
-                            <img class="img-responsive" src="images/summary-detailed-status-modal.png" alt="detailed status modal">
+                            <img class="img-responsive" src="docs/images/summary-detailed-status-modal.png" alt="detailed status modal">
                         </section>
 
                         <section id="navigate-historical-status-per-department" class="doc-section">
@@ -1229,7 +1229,7 @@
                                 <li>After selecting a framework, click the “<b>Historical per Department</b>” tab.</li>
                                 <li>
                                     Select from the corresponding dropdown list the Site and Comparative Period, you want to compare. Then, you can already monitor the progress of compliance.
-                                    <img class="img-responsive" src="images/summary-historical-per-department.png" alt="screen shot of Historical Per Department Tab">
+                                    <img class="img-responsive" src="docs/images/summary-historical-per-department.png" alt="screen shot of Historical Per Department Tab">
                                 </li>
                             </ol>
                         </section>
@@ -1252,7 +1252,7 @@
                                 <li>A View Evidence pop-up interface will appear. From there, you can view the evidence details, information and history.</li>
                                 <li>
                                     You can also resubmit an evidence by clicking “Resubmit Evidence” button located in Action Column. A warning pop-up interface will appear confirming if you really want to resubmit an evidence.
-                                    <img class="img-responsive" src="images/historical-records-index.png" alt="screen shot of Historical Records Page">
+                                    <img class="img-responsive" src="docs/images/historical-records-index.png" alt="screen shot of Historical Records Page">
                                 </li>
                             </ol>
                         </section>
@@ -1273,7 +1273,7 @@
                                 <li>In the Basic Configurations page, select from the corresponding tab <b>Basic Setup</b>, <b>Email Notification</b> and <b>Personalize</b> you want to configure.</li>
                                 <li>
                                     Every time you make a changes, don’t forget to always click the “<b>Save Changes</b>” button.
-                                    <img class="img-responsive" src="images/basic-config-index.png" alt="screen shot of Basic Config Page">
+                                    <img class="img-responsive" src="docs/images/basic-config-index.png" alt="screen shot of Basic Config Page">
                                 </li>
                             </ol>
                         </section>
@@ -1287,7 +1287,7 @@
                                 <li>In the Basic Configurations page, select from the corresponding tab <b>Basic Setup</b>, <b>Email Notification</b> and <b>Personalize</b> you want to configure.</li>
                                 <li>
                                     Every time you make a changes, don’t forget to always click the “<b>Save Changes</b>” button.
-                                    <img class="img-responsive" src="images/basic-config-index.png" alt="screen shot of Basic Config Page">
+                                    <img class="img-responsive" src="docs/images/basic-config-index.png" alt="screen shot of Basic Config Page">
                                 </li>
                             </ol>
                         </section>
@@ -1295,26 +1295,26 @@
                         <section id="config-basic-setup-standards-attributes-pane" class="doc-section">
                             <h5>Standard Attributes Pane</h5>
                             <p>This configuration is for the creation of a Standard. If you click the checkbox besides “Enable Standard Title Field” option, the details of standard will add a “Standard Name”. If you disabled the attributes, the details of standard will hide the standard name. See <a class="scrollto" href="#create-chapters-standards-compliance">Create Chapters & Standards</a> section for more details.</p>
-                            <img class="img-responsive" src="images/basic-config-basic-setup.png" alt="screen shot of Basic Setup tab">
+                            <img class="img-responsive" src="docs/images/basic-config-basic-setup.png" alt="screen shot of Basic Setup tab">
                         </section>
 
                         <section id="config-basic-setup-elements-attributes-pane" class="doc-section">
                             <h5>Elements Attributes Pane</h5>
                             <p>This configuration is for assigning a unique weight for each element and enabling a title field. If you want to configure a highest possible weight, click the checkbox besides “Enable Assignment of Unique Weight for Each Element” option then select the number you want from the dropdown list. If you disabled the attributes, the weight for all elements will be defaulted. See <a class="scrollto" href="#create-element">Create Compliance Elements</a> section for more details.</p>
                             <p>And if you click the checkbox besides “Enable Element Title Field” option, the details of an element will add an “Element Name”. If you disabled the attributes, the details of an element will hide the element name. See <a class="scrollto" href="#create-chapters-standards-compliance">Create Chapters & Standards</a> section for more details.</p>
-                            <img class="img-responsive" src="images/basic-config-basic-setup-element-attributes.png" alt="screen shot of Element Attributes Pane">
+                            <img class="img-responsive" src="docs/images/basic-config-basic-setup-element-attributes.png" alt="screen shot of Element Attributes Pane">
                         </section>
 
                         <section id="config-basic-setup-elements-scoring-pane" class="doc-section">
                             <h5>Elements Scoring Pane</h5>
                             <p>This configuration is for adding a score in the Evidence Assessment. See <a class="scrollto" href="#score-compliance-element">Checklist Scoring</a> section for more details.</p>
-                            <img class="img-responsive" src="images/basic-config-basic-setup-element-scoring.png" alt="screen shot of Element Scoring Pane">
+                            <img class="img-responsive" src="docs/images/basic-config-basic-setup-element-scoring.png" alt="screen shot of Element Scoring Pane">
                         </section>
 
                         <section id="config-basic-setup-workflow-approval-pane" class="doc-section">
                             <h5>Workflow Approval Pane</h5>
                             <p>This configuration is for enabling the need for approval before a user can create a corrective action. See <a class="scrollto" href="#corrective-action-preventive-action">Corrective Action</a> section for more details.</p>
-                            <img class="img-responsive" src="images/basic-config-basic-setup-workflow-approval.png" alt="screen shot of Workflow Approval Pane">
+                            <img class="img-responsive" src="docs/images/basic-config-basic-setup-workflow-approval.png" alt="screen shot of Workflow Approval Pane">
                         </section>
 
                         <section id="config-email-notification" class="doc-section">
@@ -1326,20 +1326,20 @@
                             <h5>Compliance Evidence Pane</h5>
                             <p>This configuration is for the email notifications of a Compliance Evidence. You can customize on how TrueSight will update you about the modifications made in compliance evidence. You can select between “Every time a Draft Evidence is modified”, “Every time Evidence is submitted for Review” and “Every time Evidence / Element is Scored” options. See <a class="scrollto" href="#create-element">Create Compliance Elements</a> and <a class="scrollto" href="#create-chapters-standards-compliance">Create Chapters & Standards</a> section for more details.</p>
                             <p>You can also tag users that you want to be notified as well. See <a class="scrollto" href="#create-element">Create Compliance Elements</a> and <a class="scrollto" href="#create-chapters-standards-compliance">Create Chapters & Standards</a> section for more details.</p>
-                            <img class="img-responsive" src="images/basic-config-email-notification.png" alt="screen shot of Email Notification pane">
+                            <img class="img-responsive" src="docs/images/basic-config-email-notification.png" alt="screen shot of Email Notification pane">
                         </section>
 
                         <section id="config-email-notification-capa" class="doc-section">
                             <h5>Corrective Action / Preventive Action Pane</h5>
                             <p>This configuration is for the email notifications of a Corrective Action / Preventive Action. You can customize on how TrueSight will update you about the modifications made in compliance evidence. You can select between “Every time a Draft Evidence is modified”, “Every time Evidence is submitted for Review” and “Every time Evidence / Element is Scored” options. See <a class="scrollto" href="#create-element">Create Compliance Elements</a> and <a class="scrollto" href="#create-chapters-standards-compliance">Create Chapters & Standards</a> section for more details. </p>
                             <p>You can also tag users that you want to be notified as well.  See <a class="scrollto" href="#create-element">Create Compliance Elements</a> and <a class="scrollto" href="#create-chapters-standards-compliance">Create Chapters & Standards</a> section for more details.</p>
-                            <img class="img-responsive" src="images/basic-config-email-notification.png" alt="screen shot of Email Notification pane">
+                            <img class="img-responsive" src="docs/images/basic-config-email-notification.png" alt="screen shot of Email Notification pane">
                         </section>
 
                         <section id="config-personalize" class="doc-section">
                             <h4>Personalize</h4>
                             <p>In this tab, you can upload the logo of your own company.</p>
-                            <img class="img-responsive" src="images/basic-config-personalize.png" alt="screen shot of Personalize pane">
+                            <img class="img-responsive" src="docs/images/basic-config-personalize.png" alt="screen shot of Personalize pane">
                         </section>
 
                         <section id="manage-user" class="doc-section">
@@ -1356,7 +1356,7 @@
                                 <li>A Submodule list will appear under “Admin”. Click the “<b>User Accounts</b>” submodule.</li>
                                 <li>
                                     In the User Account page, you can view the list of user accounts that has been made. You can also filter your view by selecting from a dropdown list the user role you want.
-                                    <img class="img-responsive" src="images/user-accounts-filtering.png" alt="screen shot of filtering by role in user accounts">
+                                    <img class="img-responsive" src="docs/images/user-accounts-filtering.png" alt="screen shot of filtering by role in user accounts">
                                 </li>
                             </ol>
                         </section>
@@ -1370,7 +1370,7 @@
                                 <li>In the User Account page, click the “<b>+ Create</b>” button.</li>
                                 <li>
                                     A User Account Information pop-up interface will appear.
-                                    <img class="img-responsive" src="images/create-user-modal.png" alt="create user modal">
+                                    <img class="img-responsive" src="docs/images/create-user-modal.png" alt="create user modal">
 
                                     <div class="callout-block callout-info">
                                         <div class="icon-holder">
@@ -1396,7 +1396,7 @@
                                 <li>In the User Accounts page, press the <b>View User</b> <i class="fa fa-search"></i> button in the Action Column corresponding the User you wish to view. </li>
                                 <li>
                                     A User Information pop up will appear.
-                                    <img class="img-responsive" src="images/view-user-modal.png" alt="view user modal">
+                                    <img class="img-responsive" src="docs/images/view-user-modal.png" alt="view user modal">
                                 </li>
                                 <li>Once done viewing, click the “<b>Close</b>” button.</li>
                             </ol>
@@ -1411,7 +1411,7 @@
                                 <li>In the User Accounts page, press the <b>Modify User</b> <i class="fa fa-edit"></i> button in the Action Column corresponding the User you wish to modify.</li>
                                 <li>
                                     A User Information pop up will appear.
-                                    <img class="img-responsive" src="images/modify-user-modal.png" alt="modify user modal">
+                                    <img class="img-responsive" src="docs/images/modify-user-modal.png" alt="modify user modal">
                                 </li>
                                 <li>Once done modifying the User fields, press the “<b>Save Changes</b>” button to complete the modification.</li>
                             </ol>
@@ -1426,7 +1426,7 @@
                                 <li>In the User Accounts page, press the <b>Change Password</b> <i class="fa fa-key"></i> button in the Action Column corresponding the User you wish to change their password. </li>
                                 <li>
                                     A User Change Password pop up will appear.
-                                    <img class="img-responsive" src="images/change-user-password-modal.png" alt="change user password modal">
+                                    <img class="img-responsive" src="docs/images/change-user-password-modal.png" alt="change user password modal">
                                 </li>
                                 <li>Complete the details needed then click the “<b>Change Password</b>” button.</li>
                                 <li>Click the “<b>Cancel</b>” button if you want to cancel changing a password.</li>
@@ -1442,7 +1442,7 @@
                                 <li>In the User Accounts page, press the <b>Delete User</b> <i class="fa fa-remove"></i> button in the Action Column corresponding the User you wish to delete.</li>
                                 <li>
                                     A pop-up validation message will appear confirming if you want to proceed with the deletion or not.  Press the “<b>Yes</b>” button if you want to continue deleting the User.  Otherwise, press “<b>No</b>”.
-                                    <img class="img-responsive" src="images/delete-user-modal.png" alt="delete user modal">
+                                    <img class="img-responsive" src="docs/images/delete-user-modal.png" alt="delete user modal">
                                 </li>
                                 <li>Repeat steps 3 to 4 if you want to delete more users.</li>
                             </ol>
@@ -1462,7 +1462,7 @@
                                 <li>A Submodule list will appear under “Admin”. Click the “User Roles” submodule.</li>
                                 <li>
                                     In the User Roles page, you can view the list of user roles that has been made.
-                                    <img class="img-responsive" src="images/roles-index.png" alt="screen shot of roles page">
+                                    <img class="img-responsive" src="docs/images/roles-index.png" alt="screen shot of roles page">
                                 </li>
                             </ol>
                         </section>
@@ -1476,7 +1476,7 @@
                                 <li>In the User Roles page, click the “<b>+ Create</b>” button.</li>
                                 <li>
                                     A Role Information pop-up interface will appear.
-                                    <img class="img-responsive" src="images/create-role-modal.png" alt="create role modal">
+                                    <img class="img-responsive" src="docs/images/create-role-modal.png" alt="create role modal">
                                 </li>
                                 <li>Complete the details needed then click the “<b>Create</b>” button.</li>
                                 <li>Click the “<b>Cancel</b>” button if you want to cancel making a new account.</li>
@@ -1492,7 +1492,7 @@
                                 <li>In the User Roles page, press the <b>View User Role</b> <i class="fa fa-search"></i> button in the Action Column corresponding the User Roles you wish to view.</li>
                                 <li>
                                     A Role Information pop up will appear.
-                                    <img class="img-responsive" src="images/view-role-modal.png" alt="view role modal">
+                                    <img class="img-responsive" src="docs/images/view-role-modal.png" alt="view role modal">
                                 </li>
                                 <li>Once done viewing, click the “Cancel” button.</li>
                             </ol>
@@ -1507,7 +1507,7 @@
                                 <li>In the User Roles page, press the <b>Modify User Role</b> <i class="fa fa-edit"></i> button in the Action Column corresponding the User Roles you wish to modify.</li>
                                 <li>
                                     A pop-up interface will appear.
-                                    <img class="img-responsive" src="images/modify-role-modal.png" alt="modify role modal">
+                                    <img class="img-responsive" src="docs/images/modify-role-modal.png" alt="modify role modal">
                                 </li>
                                 <li>Once done modifying the User Role fields and editing the roles, press the “<b>Save Changes</b>” button to complete the modification.</li>
                                 <li>Click the “<b>Cancel</b>” button if you want to cancel the modification.</li>
@@ -1523,7 +1523,7 @@
                                 <li>In the User Roles page, press the <b>Delete User Role</b> <i class="fa fa-remove"></i> button in the Action Column corresponding the User Role you wish to delete.</li>
                                 <li>
                                     A pop-up validation message will appear confirming if you want to proceed with the deletion or not.  Press the “<b>Yes</b>” button if you want to continue deleting the User. Otherwise, press “<b>No</b>”.
-                                    <img class="img-responsive" src="images/delete-role-modal.png" alt="delete role modal">
+                                    <img class="img-responsive" src="docs/images/delete-role-modal.png" alt="delete role modal">
                                 </li>
                                 <li>Repeat steps 3 to 4 if you want to delete more users.</li>
                             </ol>
@@ -1554,19 +1554,19 @@
                                 <li>In the Location Account page, click the “<b>+ Create</b>” button.</li>
                                 <li>
                                     A Site Information pop-up interface will appear.
-                                    <img class="img-responsive" src="images/create-site-modal.png" alt="create site modal">
+                                    <img class="img-responsive" src="docs/images/create-site-modal.png" alt="create site modal">
                                 </li>
                                 <li>
                                     The Location account has initially been created.  Now you can start adding a department. Press “<b>Add Department</b>” button to create a department within your newly created Location account.
-                                    <img class="img-responsive" src="images/create-site-expanded-modal.png" alt="create site modal">
+                                    <img class="img-responsive" src="docs/images/create-site-expanded-modal.png" alt="create site modal">
                                 </li>
                                 <li>
                                     Complete the details of the “<b>Department</b>” pop-up interface.
-                                    <img class="img-responsive" src="images/create-department-modal.png" alt="create department modal">
+                                    <img class="img-responsive" src="docs/images/create-department-modal.png" alt="create department modal">
                                 </li>
                                 <li>
                                     After creating a department, you will redirected back to the Site Information pop-up with the list of the departments you made. If you want to create additional Departments within the same Site, press the “<b>Add Department</b>” button and repeat steps 6 to 7 of this section.
-                                    <img class="img-responsive" src="images/create-site-expanded-with-department-modal.png" alt="create location modal">
+                                    <img class="img-responsive" src="docs/images/create-site-expanded-with-department-modal.png" alt="create location modal">
                                 </li>
                                 <li>Once done creating Departments press the “<b>Create</b>” button in the “Site Information” interface to finalize the creation of both the Location Account and the corresponding Departments.</li>
                             </ol>
@@ -1581,12 +1581,12 @@
                                 <li>In the Location Accounts page, press the <b>View</b> <i class="fa fa-search"></i> button in the Action Column corresponding the Site you wish to view. </li>
                                 <li>
                                     A Site Information pop up will appear. You will see the Site details and list of departments under it.
-                                    <img class="img-responsive" src="images/view-location-modal.png" alt="view location modal">
+                                    <img class="img-responsive" src="docs/images/view-location-modal.png" alt="view location modal">
                                 </li>
                                 <li>In viewing a department details, press also the <b>View</b> <i class="fa fa-search"></i> button in the Action Column corresponding the Department you wish to view.</li>
                                 <li>
                                     Department Information pop up will appear. You will see the Site details and list of departments under it.
-                                    <img class="img-responsive" src="images/view-department-modal.png" alt="view department modal">
+                                    <img class="img-responsive" src="docs/images/view-department-modal.png" alt="view department modal">
                                 </li>
                             </ol>
                         </section>
@@ -1600,13 +1600,13 @@
                                 <li>In the Location Accounts page, press the <b>Modify</b> <i class="fa fa-edit"></i> button in the Action Column corresponding the Site you wish to modify.</li>
                                 <li>
                                     A pop-up interface containing the Site details and the list of departments under it will appear.
-                                    <img class="img-responsive" src="images/modify-location-modal.png" alt="modify location modal">
+                                    <img class="img-responsive" src="docs/images/modify-location-modal.png" alt="modify location modal">
                                 </li>
                                 <li>Click the “<b>Update Site Details</b>” button.</li>
                                 <li>Once done modifying the Site fields, press the “<b>Update Changes</b>” button to complete the modification. </li>
                                 <li>
                                     To modify the <b>Departments</b>, press also the <b>Modify</b> <i class="fa fa-edit"></i> button in the Action Column corresponding the Department you wish to modify.
-                                    <img class="img-responsive" src="images/modify-department-modal.png" alt="modify department modal">
+                                    <img class="img-responsive" src="docs/images/modify-department-modal.png" alt="modify department modal">
                                 </li>
                                 <li>Once done modifying the Department fields, press the “<b>Save Changes</b>” button to complete the modification. </li>
                                 <li>Afterwards, click the “<b>Save Changes</b>” button in the “Site Information” interface to finalize the modification of both the Location Account and the corresponding Departments.</li>
@@ -1622,7 +1622,7 @@
                                 <li>In the Location Accounts page, press the <b>Delete</b> <i class="fa fa-remove"></i> button in the Action Column corresponding the Site you wish to delete.</li>
                                 <li>
                                     A pop-up validation message will appear confirming if you want to proceed with the deletion or not.  Press the “<b>Yes</b>” button if you want to continue deleting the Site.  Otherwise, press “<b>No</b>”.
-                                    <img class="img-responsive" src="images/delete-site-modal.png" alt="delete site modal">
+                                    <img class="img-responsive" src="docs/images/delete-site-modal.png" alt="delete site modal">
                                 </li>
                                 <li>Repeat steps 3 to 4 if you want to delete more sites.</li>
                                 <li>To delete a <b>Department</b>, press the <b>Modify</b> <i class="fa fa-edit"></i> button in the Action Column corresponding the Site in which the department you want to delete are under it.</li>
@@ -1630,7 +1630,7 @@
                                 <li>In the list of the departments, press the <b>Delete</b> <i class="fa fa-remove"></i> button in the Action Column corresponding the Department you wish to delete.</li>
                                 <li>
                                     A pop-up validation message will appear confirming if you want to proceed with the deletion or not.  Press the “<b>Yes</b>” button if you want to continue deleting the Department.  Otherwise, press “<b>No</b>”.
-                                    <img class="img-responsive" src="images/delete-department-modal.png" alt="delete department modal">
+                                    <img class="img-responsive" src="docs/images/delete-department-modal.png" alt="delete department modal">
                                 </li>
                                 <li>Repeat steps 8 to 9 if you want to delete more departments. </li>
                             </ol>
@@ -1650,7 +1650,7 @@
                                 <li>A Submodule list will appear under “Admin”. Click the “<b>News</b>” submodule.</li>
                                 <li>
                                     In the News page, you can view the list of news that has been made.
-                                    <img class="img-responsive" src="images/news-index.png" alt="news index">
+                                    <img class="img-responsive" src="docs/images/news-index.png" alt="news index">
                                 </li>
                             </ol>
                         </section>
@@ -1664,7 +1664,7 @@
                                 <li>In the News page, click the “<b>+ Create</b>” button.</li>
                                 <li>
                                     A Create News pop-up interface will appear. Complete the needed details.
-                                    <img class="img-responsive" src="images/create-news-modal.png" alt="create news modal">
+                                    <img class="img-responsive" src="docs/images/create-news-modal.png" alt="create news modal">
                                 </li>
                                 <li>Once done creating a news press the “<b>Create</b>” button.</li>
                             </ol>
@@ -1679,7 +1679,7 @@
                                 <li>In the News page, click the “<b>+ Create</b>” button.</li>
                                 <li>
                                     A Create News pop-up interface will appear. Complete the needed details.
-                                    <img class="img-responsive" src="images/create-news-modal.png" alt="create news modal">
+                                    <img class="img-responsive" src="docs/images/create-news-modal.png" alt="create news modal">
                                 </li>
                                 <li>
                                     Click the “<b>Choose File</b>” button and select the documents or media you want to upload.
@@ -1694,7 +1694,7 @@
                                         </div>
                                     </div>
 
-                                    <img class="img-responsive" src="images/news-preview-modal.png" alt="news preview modal">
+                                    <img class="img-responsive" src="docs/images/news-preview-modal.png" alt="news preview modal">
                                 </li>
                                 <li>Once done creating a news press the “<b>Create</b>” button.</li>
                             </ol>
@@ -1706,11 +1706,11 @@
                             <ol class="list">
                                 <li>
                                     To view a news, click the “<b>News</b>” pane in the side bar menu. After clicking, the list of news tiles with its published dates will appear.
-                                    <img class="img-responsive" src="images/news-sidebar.png" alt="news list">
+                                    <img class="img-responsive" src="docs/images/news-sidebar.png" alt="news list">
                                 </li>
                                 <li>
                                     Choose the News you want to read by clicking its title. A pop up interface will appear.
-                                    <img class="img-responsive" src="images/news-preview-modal.png" alt="news preview">
+                                    <img class="img-responsive" src="docs/images/news-preview-modal.png" alt="news preview">
                                 </li>
                                 <li>Click the “Close” button if you finish reading it.</li>
                             </ol>
@@ -1721,7 +1721,7 @@
                                 <li>In the News page, press the <b>View</b> <i class="fa fa-search"></i> button in the Action Column corresponding the News you wish to view. </li>
                                 <li>
                                     A View News pop up will appear. You will see the News details. Click the “<b>Close</b>” button if you finish reading.
-                                    <img class="img-responsive" src="images/view-news-modal.png" alt="view news modal">
+                                    <img class="img-responsive" src="docs/images/view-news-modal.png" alt="view news modal">
                                 </li>
                             </ol>
                         </section>
@@ -1735,7 +1735,7 @@
                                 <li>In the News page, press the <b>Modify</b> <i class="fa fa-edit"></i> button in the Action Column corresponding the News you wish to modify.</li>
                                 <li>
                                     A pop-up interface containing the News details will appear.
-                                    <img class="img-responsive" src="images/modify-news-modal.png" alt="modify news modal">
+                                    <img class="img-responsive" src="docs/images/modify-news-modal.png" alt="modify news modal">
                                 </li>
                                 <li>Once done modifying the News fields, press the “<b>Save Changes</b>” button to complete the modification.</li>
                             </ol>
@@ -1750,7 +1750,7 @@
                                 <li>In the News page, press the <b>Delete</b> <i class="fa fa-remove"></i> button in the Action Column corresponding the News you wish to delete.</li>
                                 <li>
                                     A pop-up validation message will appear confirming if you want to proceed with the deletion or not.  Press the “<b>Yes</b>” button if you want to continue deleting the News. Otherwise, press “<b>No</b>”.
-                                    <img class="img-responsive" src="images/delete-news-modal.png" alt="delete news modal">
+                                    <img class="img-responsive" src="docs/images/delete-news-modal.png" alt="delete news modal">
                                 </li>
                                 <li>Repeat steps 3 to 4 if you want to delete more news.</li>
                             </ol>
@@ -1781,7 +1781,7 @@
                                 <li>In the Quotes page, click the “<b>+ Create</b>” button.</li>
                                 <li>
                                     A Create Quote pop-up interface will appear.
-                                    <img class="img-responsive" src="images/create-quote-modal.png" alt="create quote modal">
+                                    <img class="img-responsive" src="docs/images/create-quote-modal.png" alt="create quote modal">
 
                                     <div class="callout-block callout-info">
                                         <div class="icon-holder">
@@ -1801,7 +1801,7 @@
                             <h4>Viewing the Quote of the day</h4>
                             <p>All users can view a Quotes.</p>
                             <p>A user can already view the quote of the day at the footer of the interface once they logged in.</p>
-                            <img class="img-responsive" src="images/quote-in-footer.png" alt="quote in footer">
+                            <img class="img-responsive" src="docs/images/quote-in-footer.png" alt="quote in footer">
                             <p>Another way of viewing the quote of the day is by an authorized user. To view a quote, your user account needs to have “View” access permission to the “Admin” Module > “<b>Quotes</b>” Submodule.</p>
                             <ol class="list">
                                 <li>Click the “<b>Admin</b>” module in the Menu.</li>
@@ -1820,7 +1820,7 @@
                                 <li>In the Quotes page, press the <b>Modify</b> <i class="fa fa-modify"></i> button in the Action Column corresponding the Quotes you wish to modify.</li>
                                 <li>
                                     A pop-up interface containing the Quotes details will appear.
-                                    <img class="img-responsive" src="images/modify-quote-modal.png" alt="modify quote modal">
+                                    <img class="img-responsive" src="docs/images/modify-quote-modal.png" alt="modify quote modal">
                                 </li>
                                 <li>Once done modifying the Quotes fields, press the “<b>Save Changes</b>” button to complete the modification.</li>
                             </ol>
@@ -1835,7 +1835,7 @@
                                 <li>In the Quotes page, press the <b>Delete</b> <i class="fa fa-remove"></i> button in the Action Column corresponding the Quote you wish to delete.</li>
                                 <li>
                                     A pop-up validation message will appear confirming if you want to proceed with the deletion or not.  Press the “<b>Yes</b>” button if you want to continue deleting the Quote.  Otherwise, press “<b>No</b>”.
-                                    <img class="img-responsive" src="images/delete-quote-modal.png" alt="delete quote modal">
+                                    <img class="img-responsive" src="docs/images/delete-quote-modal.png" alt="delete quote modal">
                                 </li>
                                 <li>Repeat steps 3 to 4 if you want to delete more quotes.</li>
                             </ol>
@@ -1855,7 +1855,7 @@
                                 <li>A Submodule list will appear under “Admin”. Click the “<b>Framework Accounts</b>” submodule.</li>
                                 <li>
                                     In the Framework Account page, you can view the list of location accounts that has been made.
-                                    <img class="img-responsive" src="images/framework-index.png" alt="Framework Accounts Page">
+                                    <img class="img-responsive" src="docs/images/framework-index.png" alt="Framework Accounts Page">
                                 </li>
                             </ol>
                         </section>
@@ -1869,8 +1869,8 @@
                                 <li>In the Framework Account page, click the “<b>+ Create</b>” button.</li>
                                 <li>
                                     A Framework Information pop-up interface will appear.
-                                    <img class="img-responsive" src="images/create-framework-modal.png" alt="create framework modal">
-                                    <img class="img-responsive" src="images/create-framework-selecting-site-modal.png" alt="selecting site in create framework modal">
+                                    <img class="img-responsive" src="docs/images/create-framework-modal.png" alt="create framework modal">
+                                    <img class="img-responsive" src="docs/images/create-framework-selecting-site-modal.png" alt="selecting site in create framework modal">
 
                                     <div class="callout-block callout-info">
                                         <div class="icon-holder">
@@ -1894,7 +1894,7 @@
                                 <li>In the Framework Accounts page, press the <b>View</b> <i class="fa fa-search"></i> button in the Action Column corresponding the framework you wish to view. </li>
                                 <li>
                                     A Framework Information pop up will appear. You will see the Framework details.
-                                    <img class="img-responsive" src="images/view-framework-modal.png" alt="view framework modal">
+                                    <img class="img-responsive" src="docs/images/view-framework-modal.png" alt="view framework modal">
                                 </li>
                                 <li>Click the “<b>Close</b>” button if you are done viewing. </li>
                             </ol>
@@ -1909,7 +1909,7 @@
                                 <li>In the Framework Accounts page, press the <b>Modify</b> <i class="fa fa-edit"></i> button in the Action Column corresponding the Framework you wish to modify.</li>
                                 <li>
                                     A pop-up interface containing the Framework details.
-                                    <img class="img-responsive" src="images/modify-framework-modal.png" alt="modify framework modal">
+                                    <img class="img-responsive" src="docs/images/modify-framework-modal.png" alt="modify framework modal">
                                 </li>
                                 <li>Once done modifying the Framework fields, press the “<b>Save Changes</b>” button to complete the modification.</li>
                             </ol>
@@ -1924,7 +1924,7 @@
                                 <li>In the Framework Accounts page, press the <b>Delete</b> <i class="fa fa-remove"></i> button in the Action Column corresponding the Framework you wish to delete.</li>
                                 <li>
                                     A pop-up validation message will appear confirming if you want to proceed with the deletion or not.  Press the “<b>Yes</b>” button if you want to continue deleting the Framework.  Otherwise, press “<b>No</b>”.
-                                    <img class="img-responsive" src="images/delete-framework-modal.png" alt="delete framework modal">
+                                    <img class="img-responsive" src="docs/images/delete-framework-modal.png" alt="delete framework modal">
                                 </li>
                                 <li>Repeat steps 3 to 4 if you want to delete more framework.</li>
                             </ol>
@@ -1944,7 +1944,7 @@
                                 <li>A Submodule list will appear under “Admin”. Click the “<b>Security Parameters</b>” submodule.</li>
                                 <li>
                                     In the Security Parameters page, you configure the security parameters.
-                                    <img class="img-responsive" src="images/security-parameters-index.png" alt="Security Parameters Page">
+                                    <img class="img-responsive" src="docs/images/security-parameters-index.png" alt="Security Parameters Page">
                                 </li>
                             </ol>
                             <p>The Security Parameters module has two components: (1) <a class="scrollto" href="#security-parameters-policy-pane">Password Policy</a> pane and (2) <a class="scrollto" href="#security-parameters-lockout-pane">Lockout Policy</a> pane.</p>
@@ -1953,13 +1953,13 @@
                         <section id="security-parameters-policy-pane" class="doc-section">
                             <h5>Password Policy Pane</h5>
                             <p>This configuration is to restrict a more secured Password. You can choose if you want to enable “Required Alphanumeric Characters”, “Require at least one Uppercase and Lowercase Letters”, "Require Minimum Password Length”, “Enforce Maximum and Minimum Age” and “Enforce number of Password History”. See <a class="scrollto" href="#change-your-own-password">Changing your Account Password</a> section for more details.</p>
-                            <img class="img-responsive" src="images/security-parameters-password-policy.png" alt="Security Parameters, Password Policy Pane screen shot">
+                            <img class="img-responsive" src="docs/images/security-parameters-password-policy.png" alt="Security Parameters, Password Policy Pane screen shot">
                         </section>
 
                         <section id="security-parameters-lockout-pane" class="doc-section">
                             <h5>Lockout Policy Pane</h5>
                             <p>This configuration is to give restrictions after minutes of idle time. You can choose if you want to enable “Enable Session Timeout after minutes of idle time”, “Enable Automatic Account Lockout after numbers of failed login attempts” and “Enable Account Lockout duration”.</p>
-                            <img class="img-responsive" src="images/security-parameters-lockout-policy.png" alt="Security Parameters, Lockout Policy Pane screen shot">
+                            <img class="img-responsive" src="docs/images/security-parameters-lockout-policy.png" alt="Security Parameters, Lockout Policy Pane screen shot">
 
                             <p>After you enabled the configurations you want, click the “<b>Save Changes</b>” button.</p>
                         </section>
@@ -1988,7 +1988,7 @@
                                 <li>A Submodule list will appear under “Admin”. Click the “<b>Logs</b>” submodule.</li>
                                 <li>
                                     In the Logs page, click the “Export Logs” button at the bottom right end of the interface.
-                                    <img class="img-responsive" src="images/logs-index.png" alt="screen shot of logs page">
+                                    <img class="img-responsive" src="docs/images/logs-index.png" alt="screen shot of logs page">
                                 </li>
                             </ol>
                         </section>
