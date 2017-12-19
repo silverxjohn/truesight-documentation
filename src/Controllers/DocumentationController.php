@@ -2,7 +2,7 @@
 
 namespace Truesight\Documentation\Controllers;
 
-use Illuminate\Routing\Controller as BaseController
+use Illuminate\Routing\Controller as BaseController;
 
 class DocumentationController extends BaseController
 {
