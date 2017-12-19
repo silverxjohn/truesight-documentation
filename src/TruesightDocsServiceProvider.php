@@ -17,7 +17,7 @@ class TruesightDocsServiceProvider extends ServiceProvider
 
         $this->publishes([
             __DIR__.'/views' => base_path('resources/views/truesight/documentation'),
-            __DIR__.'/public' => base_path('resources/public/docs'),
+            __DIR__.'/public' => base_path('public/docs'),
         ]);
     }
 
