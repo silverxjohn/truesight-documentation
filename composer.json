@@ -15,5 +15,12 @@
         "psr-4": {
             "Truesight\\Documentation\\": "src/"
 	}
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Truesight\\Documentation\\TruesightDocsServiceProvider"
+            ]
+        }
     }
 }
