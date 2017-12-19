@@ -1,7 +1,7 @@
 {
     "name": "truesight/documentation",
     "description": "Official documentation for Truesight Compliance Management Solution",
-    "type": "project",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
@@ -10,5 +10,10 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Truesight\\Documentation\\": "src/"
+	}
+    }
 }

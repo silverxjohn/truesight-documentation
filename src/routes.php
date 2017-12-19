@@ -11,8 +11,6 @@
 |
 */
 
-Route::get('/', 'Truesight\Documentation\Controllers\DocumentationController@index');
-
 Route::get('table-of-contents', 'Truesight\Documentation\Controllers\DocumentationController@tableOfContents');
 
 Route::get('getting-started', 'Truesight\Documentation\Controllers\DocumentationController@gettingStarted');

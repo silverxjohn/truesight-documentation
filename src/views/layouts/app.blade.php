@@ -6,15 +6,15 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <!-- Global CSS -->
-    <link rel="stylesheet" href="plugins/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="docs/plugins/bootstrap/css/bootstrap.min.css">
     <!-- Plugins CSS -->
-    <link rel="stylesheet" href="plugins/font-awesome/css/font-awesome.css">
-    <link rel="stylesheet" href="plugins/prism/prism.css">
-    <link rel="stylesheet" href="plugins/lightbox/dist/ekko-lightbox.min.css">
-    <link rel="stylesheet" href="plugins/elegant_font/css/style.css">
+    <link rel="stylesheet" href="docs/plugins/font-awesome/css/font-awesome.css">
+    <link rel="stylesheet" href="docs/plugins/prism/prism.css">
+    <link rel="stylesheet" href="docs/plugins/lightbox/dist/ekko-lightbox.min.css">
+    <link rel="stylesheet" href="docs/plugins/elegant_font/css/style.css">
 
     <!-- Theme CSS -->
-    <link id="theme-style" rel="stylesheet" href="css/styles.css">
+    <link id="theme-style" rel="stylesheet" href="docs/css/styles.css">
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -22,13 +22,13 @@
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 
-    <script type="text/javascript" src="plugins/jquery-1.12.3.min.js"></script>
-    <script type="text/javascript" src="plugins/bootstrap/js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="plugins/prism/prism.js"></script>
-    <script type="text/javascript" src="plugins/jquery-scrollTo/jquery.scrollTo.min.js"></script>
-    <script type="text/javascript" src="plugins/lightbox/dist/ekko-lightbox.min.js"></script>
-    <script type="text/javascript" src="plugins/jquery-match-height/jquery.matchHeight-min.js"></script>
-    <script type="text/javascript" src="js/main.js"></script>
+    <script type="text/javascript" src="docs/plugins/jquery-1.12.3.min.js"></script>
+    <script type="text/javascript" src="docs/plugins/bootstrap/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="docs/plugins/prism/prism.js"></script>
+    <script type="text/javascript" src="docs/plugins/jquery-scrollTo/jquery.scrollTo.min.js"></script>
+    <script type="text/javascript" src="docs/plugins/lightbox/dist/ekko-lightbox.min.js"></script>
+    <script type="text/javascript" src="docs/plugins/jquery-match-height/jquery.matchHeight-min.js"></script>
+    <script type="text/javascript" src="docs/js/main.js"></script>
 
     <title>@yield('page-title')</title>
     @yield('head')

@@ -2,16 +2,10 @@
 
 namespace Truesight\Documentation\Controllers;
 
-use App\Http\Controllers\Controller;
-use Illuminate\Http\Request;
+use Illuminate\Routing\Controller as BaseController
 
-class DocumentationController extends Controller
+class DocumentationController extends BaseController
 {
-    public function index()
-    {
-
-    }
-
     public function tableOfContents()
     {
         return view('documentations::tableofcontents.index');
